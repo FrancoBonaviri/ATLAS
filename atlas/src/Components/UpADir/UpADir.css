@@ -1,0 +1,10 @@
+
+.updir-card {
+    cursor: pointer;
+    background-color: lightgray;
+}
+
+
+.updir-card:hover {
+    background-color: gray;
+}

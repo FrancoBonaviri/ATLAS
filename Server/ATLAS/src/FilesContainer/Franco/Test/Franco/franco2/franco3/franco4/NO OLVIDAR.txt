@@ -1,0 +1,27 @@
+TRAER CODIGO ANTES DE SUBIR ALGO
+NO DEJAR SCRIPTS SIN SUBIR (NUNCA)
+CUANDO SE TOCA ALGO, ANOTARLO EN EL RELEASE.TXT
+
+
+
+
+
+
+FB. Se implementaron los metodos para el envio de mails. Tambien se agrego la referencia a NServer
+FB. Se implemento el login y el resupero de la contraseña (falta el template del email del recupero de contraseña)
+FB. Se Agregaron los nuevos estilos e imagenes.
+FB. Se agrego la pagina de registro usuario pero no se hizo nada.
+files:
+	models/tools/HelpEmail.cs
+	logon/login.aspx
+	site/recu_pass.aspx
+	js/*
+	css/*
+	img/*
+	webfonts/*
+	web.config (se agregaron muchas key para los email)
+
+scripts: 
+	0005-0006 (crean la aplicacion en la base de datos y agregan la columana "Etiqueta" en la tabla funcionesAplicaciones)
+
+
